@@ -5,6 +5,7 @@
 1. n을 동전으로 거슬러 줄 수 있는 최소한의 동전 개수(500원,100원,50원,10원)
 2. N,K 를 입력하여 1이 될 때까지 최소한의 수
 
+
 ***
-* 2021.10.19 :  
+* 2021.10.19 : 구현 알고리즘(implementation Algorithm)
 1.'+' or 'x' 로 가장 큰 수 만들기 (Use addition or subtraction to make the largest number.)
