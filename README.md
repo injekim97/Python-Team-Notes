@@ -8,5 +8,5 @@
 
 ***
 * 2021.10.19 : 구현 알고리즘(implementation Algorithm)
-*
+
 1.'+' or 'x' 로 가장 큰 수 만들기 (Use addition or subtraction to make the largest number.)
