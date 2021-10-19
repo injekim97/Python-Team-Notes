@@ -8,7 +8,7 @@
 
 2. 20211018_list_comprehension
 -> 리스트 컴프리헨션 사용방법에 대해 설명함
-e.g : arr = [출력변수 for i in range(20) 조건문]
+* e.g : arr = [출력변수 for i in range(20) 조건문]
 
 3. 20211018_itertools(permutations,combinations)
--> itertools 모듈을 통해, 순열(permutations),중복순열(product),중복조합(combinations_with_replacement) 을 구할 수 있음
+-> itertools 모듈을 통해, 순열(permutations),중복순열(product),중복조합(combinations_with_replacement) 계산 O
