@@ -10,4 +10,5 @@
 -> 리스트 컴프리헨션 e.g : arr = [출력변수 for i in range(20) 조건문]
 
 3. 20211018_itertools(permutations,combinations)   
--> itertools 모듈을 이용 -> 순열(permutations),중복순열(product),중복조합(combinations_with_replacement) 계산 O
+-> itertools 모듈을 이용   
+-> 순열(permutations),중복순열(product),중복조합(combinations_with_replacement) 계산 O
