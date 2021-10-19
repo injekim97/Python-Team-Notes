@@ -11,3 +11,7 @@
 
 1. '+' or 'x' 로 가장 큰 수 만들기 (Use addition or subtraction to make the largest number.)
 2. 완전탐색(3중for문을 이용한 시각문제)
+
+
+* 2021.10.19 : BAEKJJON_CLASS1
+1. 1000,1001,1008,1152,1157
