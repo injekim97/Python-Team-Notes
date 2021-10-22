@@ -13,7 +13,7 @@
 -> 리스트 컴프리헨션   
 -> arr = [출력형태 for i in range(20) 조건문] 또는 2차원리스트 [[0] * 4 for _ in range(5)]    
 
-
+***
 * 2021.10.22    
 1. 20211022_practical-codes 
 -> BAEKJOON_CLASS1을 풀면서 자주 사용되는 코드를 정리하였음   
