@@ -1,7 +1,6 @@
 # Python-Team-Notes
 코딩 테스트 준비를 위한 기초 코드 부터 알고리즘 까지 업로드 할 리포지토리   
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=injekim97)](https://solved.ac/injekim97)
 
 * 2021.10.18   
 -> 코딩 테스트 기본 입력 형식 및 빠른 입력 처리, 리스트 컴프리헨션, 라이브러리 itertools(순열,중복 순열,조합)    
@@ -55,3 +54,5 @@
 ***
 * 2021.10.25 : 어서와! 자료구조 & 알고리즘은 처음이지?  
 -> Part-2 선형배열   
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=injekim97)](https://solved.ac/injekim97)
