@@ -11,3 +11,11 @@
 * 2021.10.26 : 어서와! 자료구조 & 알고리즘은 처음이지?  
 -> Part-5 재귀 알고리즘 응용  (recursive algorithms applications)    
 -> Part-6 알고리즘의 복잡도(Complexity of Algorithms)    
+
+
+
+***   
+* 2021.10.27 : 어서와! 자료구조 & 알고리즘은 처음이지?  
+-> Part-7 연결 리스트(Linked Lists) - (1)   
+
+
