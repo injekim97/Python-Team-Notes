@@ -17,10 +17,10 @@
 ***   
 * 2021.10.27 : 어서와! 자료구조 & 알고리즘은 처음이지?  
 -> Part-7 연결 리스트(Linked Lists) - 1    
--> 연결 리스트 특정 원소 참조 (k 번째), 연결 리스트 순회(Linked list traverse)   
-
+-> 연결 리스트 특정 원소 참조 (k 번째), 연결 리스트 순회(Linked list traverse), 길이 얻어내기(getLength)   
+ 
 
 ***   
 * 2021.10.28 : 어서와! 자료구조 & 알고리즘은 처음이지?  
 -> Part-8 연결 리스트(Linked Lists) - 2   
-->     
+-> 원소 삽입(insertAt), 원소 삭제, 두 리스트 합치기(concat)        
