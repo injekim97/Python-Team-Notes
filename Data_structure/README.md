@@ -33,4 +33,10 @@
 
 ***
 * 2021.11.03 : 어서와! 자료구조 & 알고리즘은 처음이지?   
--> Part-9 연결 리스트(Linked Lists) - 3       
+-> Part-9 연결 리스트(Linked Lists) - 3   
+-> insertAfter, popAfter   
+
+
+***
+* 2021.11.04 : 어서와! 자료구조 & 알고리즘은 처음이지?   
+-> Part-10 양방향 연결 리스트(Doubly Linked Lists)       
