@@ -23,12 +23,12 @@
 ***   
 * 2021.10.28 : 어서와! 자료구조 & 알고리즘은 처음이지?  
 -> Part-8 연결 리스트(Linked Lists) - 2   
--> 원소 삽입(insertAt), 원소 삭제(아직 못함), 두 리스트 합치기(concat)         
+-> 원소 삽입(insertAt), 원소 삭제(popAt), 두 리스트 합치기(concat)         
 
 
 ***   
 * 2021.10.29 : 어서와! 자료구조 & 알고리즘은 처음이지?   
--> Part-8 연결 리스트(Linked Lists) - 2  : 원소 삭제(popAt)    
+-> Part-8 연결 리스트(Linked Lists) - 2  : 원소 삭제(popAt)   OK
 
 
 ***
