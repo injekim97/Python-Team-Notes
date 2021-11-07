@@ -5,5 +5,5 @@
 -> 2021.10.31 Python_study file upload  
 
 ***
-* 2021.11.07   
+* 2021.11.07 : BAEKJOON-11729번: 하노이 탑 이동 순서
 -> hanoi code upload (이동 횟수 공식 : 2^n-1 인 이유 포함)  
