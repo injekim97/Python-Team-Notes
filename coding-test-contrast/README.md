@@ -6,4 +6,4 @@
 
 ***
 * 2021.11.07   
--> hanoi code upload  
+-> hanoi code upload (이동 횟수 공식 : 2^n-1 인 이유 포함)  
