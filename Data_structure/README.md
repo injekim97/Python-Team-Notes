@@ -46,3 +46,10 @@
 * 2021.11.24 : 어서와! 자료구조 & 알고리즘은 처음이지?   
 -> Part-11 스택(Stacks)   (파일명 : Stacks.ipynb)   
 -> Part-12 스택의 응용: 수식의 후위 표기법 (중위->후위)  (파일명 : Stacks_Postfix_Notation.ipynb)   
+-> 인자 값을 문자열로 받아서 계산   
+
+
+***
+* 2021.11.28 : 어서와! 자료구조 & 알고리즘은 처음이지?   
+-> Part-13 스택의 응용: 후위 표기 수식 계산에 쓰일 모듈 파일   (파일명 : Stacks_Postfix_Notation.py - Part 12 파일임)   
+-> 인자 값을 리스트로 받아서 계산  (파일명 : Stacks2_postfixEval.ipynb)   
