@@ -53,3 +53,6 @@
 * 2021.11.28 : 어서와! 자료구조 & 알고리즘은 처음이지?   
 -> Part-13 스택의 응용: 후위 표기 수식 계산에 쓰일 모듈 파일   (파일명 : Stacks_Postfix_Notation.py - Part 12 파일임)   
 -> 인자 값을 리스트로 받아서 계산  (파일명 : Stacks2_postfixEval.ipynb)   
+
+-> Part-14  큐(Queues)  (파일명 : Queues.ipynb)    
+-> 연습문제 - (2) 양방향 연결 리스트로 큐 구현  
