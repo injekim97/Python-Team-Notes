@@ -71,3 +71,4 @@
 * 2021.11.30 : 어서와! 자료구조 & 알고리즘은 처음이지?   
 -> Part-18 이진 트리의 깊이 우선 순회 (DFS) - 중위 순회, 전위 순회, 후위 순회     
 -> Part-19 이진 트리 넓이 우선 순회 (BFS)  
+-> Part-20 이진 탐색 트리(Binary Search Trees) - insert(key,value), lookup(key), inorder(), min(), max()   
