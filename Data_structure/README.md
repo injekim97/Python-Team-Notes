@@ -72,3 +72,4 @@
 -> Part-18 이진 트리의 깊이 우선 순회 (DFS) - 중위 순회, 전위 순회, 후위 순회     
 -> Part-19 이진 트리 넓이 우선 순회 (BFS)  
 -> Part-20 이진 탐색 트리(Binary Search Trees) - insert(key,value), lookup(key), inorder(), min(), max()   
+-> Part-21 이진 탐색 트리 2 (Binary Search Trees 2 ) - remove(self,key)  
