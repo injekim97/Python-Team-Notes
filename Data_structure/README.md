@@ -65,4 +65,9 @@
 -> Part-15 환형 큐(Circular Queues)  
 -> Part-16 우선순위 큐(Priority Queues)  
 -> Part-17 트리의 개념(concept of trees)  
--> Part-18 이진 트리(Binary Trees) 구현 (진행중)  
+
+
+***
+* 2021.11.30 : 어서와! 자료구조 & 알고리즘은 처음이지?   
+-> Part-18 이진 트리(Binary Trees)   
+-> Part-19 이진 트리 넓이 우선 순회 (BFS)  진행중  
