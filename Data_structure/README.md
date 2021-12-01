@@ -73,3 +73,10 @@
 -> Part-19 이진 트리 넓이 우선 순회 (BFS)  
 -> Part-20 이진 탐색 트리(Binary Search Trees) - insert(key,value), lookup(key), inorder(), min(), max()   
 -> Part-21 이진 탐색 트리 2 (Binary Search Trees 2 ) - remove(self,key)  
+
+
+
+
+***
+* 2021.12.01 : 어서와! 자료구조 & 알고리즘은 처음이지?   
+-> Part-22 힙 (Heaps) - 새로운 원소 삽입 방법(insert 메서드)   
