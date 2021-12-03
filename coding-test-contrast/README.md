@@ -1,8 +1,30 @@
 # Python-Team-Notes / coding-test-contrast
-코딩 테스트 준비를 위한 스터디 기록 리포지토리 
+코딩 테스트 준비를 위한 기록용 리포지토리 
 
+
+***
+* 2021.10.18 : 그리디 알고리즘   
+-> Greedy Algorithm file upload   
+
+
+***
+* 2021.10.19 : 구현 알고리즘      
+-> Implementation Algorithm file upload    
+-> 더하기 또는 뺼셈 사용해서 가장 큰 수 만들기 file upload   
+
+
+
+
+***
+* 2021.10.20 : 구현 알고리즘     
+-> Implementation Algorithm file upload    
+-> Implementation practice file upload   
+
+
+***
 * 2021.10.31   
 -> 2021.10.31 Python_study file upload  
+
 
 ***
 * 2021.11.07 : BAEKJOON-11729번: 하노이 탑 이동 순서   
