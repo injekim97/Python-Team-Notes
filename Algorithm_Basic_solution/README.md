@@ -3,6 +3,7 @@
 -> https://code.plus/course/41   
 
 
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kij971202)](https://solved.ac/kij971202)  
 
 
 
