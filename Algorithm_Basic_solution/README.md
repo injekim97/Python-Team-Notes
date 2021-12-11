@@ -40,7 +40,7 @@
 
 * 2021.12.08 : 백준 알고리즘 기초 1/2 문제 풀이     
 -> 백준 - 1406번 (에디터)              
--> https://www.acmicpc.net/problem/1406     
+-> https://www.acmicpc.net/problem/1406      
 -> 12.10 문제를 이해하지 못하여 풀지 못함    
 -> stack 으로 에디터 문제 풀이 (파일명: stack_editor.py)        
 -> deque로 에디터 문제 풀이 (파일명: deque_editor.py)    
