@@ -42,6 +42,12 @@
 -> 백준 - 1406번 (에디터)              
 -> https://www.acmicpc.net/problem/1406      
 -> 12.10 문제를 이해하지 못하여 풀지 못함    
--> stack 으로 에디터 문제 풀이 (파일명: stack_editor.py)        
+-> 12.11 stack 으로 에디터 문제 풀이 (파일명: stack_editor.py)        
 -> deque로 에디터 문제 풀이 (파일명: deque_editor.py)    
 -> ★★★ 문제를 풀면서 느낀점 import sys , sys.stdin.readline().strip()을 사용하는 습관 들이기 ★★★  
+
+
+
+* 2021.12.11 : 백준 알고리즘 기초 1/2 문제 풀이     
+-> 백준 - 10845번 (큐)                  
+-> https://www.acmicpc.net/problem/10845    
