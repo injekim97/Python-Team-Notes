@@ -63,4 +63,11 @@
 -> https://www.acmicpc.net/problem/1158     
 -> list로 요세푸스 풀이 (파일명: 요세푸스_list.py)     
 -> deque로 요세푸스 풀이 (파일명: 요세푸스_deque.py)           
-   
+
+
+
+
+***
+* 2021.12.13 : 백준 알고리즘 기초 1/2 문제 풀이         
+-> 백준 - 10866번 (덱 문제)                       
+-> https://www.acmicpc.net/problem/10866      
