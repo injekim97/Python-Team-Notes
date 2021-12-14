@@ -51,9 +51,9 @@
 * 2021.12.11 : 백준 알고리즘 기초 1/2 문제 풀이     
 -> 백준 - 10845번 (큐)                  
 -> https://www.acmicpc.net/problem/10845      
--> deque로 큐 구현 (파일명: deque.py)        
--> list로 큐 구현 (파일명: deque_list.py)     
--> class로 큐 구현 (파일명: deque_class.py)          
+-> deque로 큐 구현 (파일명: queue_deque.py)        
+-> list로 큐 구현 (파일명: queue_list.py)     
+-> class로 큐 구현 (파일명: queue_class.py)          
 -> ★★★ class 사용 시, 변수명 = 클래스명()으로 선언 하는 거 기억하기 ★★★   
 
 
