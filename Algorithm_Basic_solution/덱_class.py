@@ -73,12 +73,10 @@ class Deque():
 
 
 
-# --------------------- class을 호출하기 위한 main ------------ 
+# --------------------- class을 호출하기 위한 main ----------------------
 if __name__ == "__main__" :    
 
-    # ★★★★★★ 클래스명으로 선언하지 않고 계속 deque = deque()로 해서 1시간동안 고생함. ★★★★★★
     deque = Deque() # 꼭 ★★ 변수명 = 클래스명으로 해야함 ★★
-
 
     for _ in range(int(sys.stdin.readline().strip())):
         command = sys.stdin.readline().strip().split() # push 명령어 입력시 공백으로 split 구분 후 뒤에 정수만 넣기 위함
