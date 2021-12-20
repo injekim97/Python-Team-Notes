@@ -11,7 +11,8 @@
 -> 백준 - 10828번 (스택)  
 -> https://www.acmicpc.net/problem/10828   
 -> 클래스를 이용해서 스택 구현 (파일명: Stack_Class.py)   
--> 리스트를 이용해서 스택 구현 (파일명: Stack_List.py)   
+-> def(사용자 정의 함수) 와 list를 이용해서 스택 구현 (파일명: Stack_def+List.py)    
+   
  
 ***
 * 2021.12.03 : 백준 알고리즘 기초 1/2 문제 풀이    
