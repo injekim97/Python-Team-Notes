@@ -3,6 +3,7 @@
 
 import sys
 
+
 def push(x):
     stack.append(x)
 
