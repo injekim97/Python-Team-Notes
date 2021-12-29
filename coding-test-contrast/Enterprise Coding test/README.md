@@ -2,7 +2,7 @@
 실제로 기업에서 본 코딩테스트 문제와 나의 풀이를 기록할 리포지토리  
 
 
-* 2021.12.29 : A Enterprise Coding test
+* 2021.12.29 : A Enterprise Coding test    
 -> A 기업 - 코딩 테스트 문제 1 (a, b 중에서 x와 더 가까운 수)    
 -> 파일명 : A Enterprise_test1.py     
 
