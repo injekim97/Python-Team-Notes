@@ -106,5 +106,5 @@
 
 ***
 * 2021.12.31 : 백준 알고리즘 기초 1/2 문제 풀이           
--> 백준 - 10799번 (쇠막대기 문제)                           
--> https://www.acmicpc.net/problem/10799    
+-> 백준 - 17298번 (오큰수 문제)                           
+-> https://www.acmicpc.net/problem/17298
