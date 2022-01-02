@@ -7,5 +7,5 @@
 -> 2. 변수입력과 연산자   
 -> 3. 조건문(if분기문, 다중if문)   
 -> 4. 반복문(for, while, break, continue)   
--> 5. 반복문을 이용한 문제 풀이 - 3문제     
+-> 5. 반복문을 이용한 문제 풀이 - 3문제(for - odd numbers,Total,divisor)    
 -> 6. 중첩반복문(2중 for문)   -   할 차례 
