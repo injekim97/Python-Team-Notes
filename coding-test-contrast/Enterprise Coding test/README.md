@@ -19,8 +19,9 @@
 -> 파일명 : A Enterprise_test5.py   
 ***
 
-* 2022.01.03 : A Enterprise Coding test - result
-ps. 제출해주신 문제풀이 과정 피드백입니다.
+* 2022.01.03 : A Enterprise Coding test - result        
+
+ps. 제출해주신 문제풀이 과정 피드백입니다.    
 
 1. a와 b 중에 x와 더 가까운 수 찾기    
 => 정답   
