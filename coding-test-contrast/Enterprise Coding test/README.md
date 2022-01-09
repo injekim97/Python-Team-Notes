@@ -20,7 +20,6 @@
 ***
 
 * 2022.01.03 : A Enterprise Coding test - result        
-
 ps. 제출해주신 문제풀이 과정 피드백입니다.    
 
 1. a와 b 중에 x와 더 가까운 수 찾기    
@@ -39,3 +38,16 @@ ps. 제출해주신 문제풀이 과정 피드백입니다.
 => 오답. 테스트 케이스들에 대해서만 동작함   
 
 최종 결과 : 4/5  
+***
+
+
+
+* 2022.01.09 : B Enterprise Coding test    
+1. B 기업 - 코딩 테스트 문제 1 (Merge_Sort)       
+-> 파일명 : B Enterprise_test1.py    
+https://level.goorm.io/exam/43122/merge-sort/quiz/1     
+
+
+2. B 기업 - 코딩 테스트 문제 2 (최단 거리 구하기)     
+-> 파일명 : B Enterprise_test2.py     
+https://level.goorm.io/exam/43082/%EC%B5%9C%EB%8B%A8-%EA%B1%B0%EB%A6%AC-%EA%B5%AC%ED%95%98%EA%B8%B0/quiz/1   
