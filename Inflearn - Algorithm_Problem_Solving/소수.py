@@ -5,7 +5,7 @@ def isPrime(N):
         if N % i == 0:
             return False
 
-    # 나머지는 소수임
+    # 나머지는 소수
     return True
     
     
