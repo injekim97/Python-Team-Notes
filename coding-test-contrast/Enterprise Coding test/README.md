@@ -51,3 +51,9 @@ https://level.goorm.io/exam/43122/merge-sort/quiz/1
 2. B 기업 - 코딩 테스트 문제 2 (최단 거리 구하기)     
 -> 파일명 : B Enterprise_test2.py     
 https://level.goorm.io/exam/43082/%EC%B5%9C%EB%8B%A8-%EA%B1%B0%EB%A6%AC-%EA%B5%AC%ED%95%98%EA%B8%B0/quiz/1   
+***
+
+
+* 2022.01.14 : C Enterprise Coding test   
+1. C 기업 - 알고리즘(2개), SQL(2개), 객관식(5개)   
+*** 
