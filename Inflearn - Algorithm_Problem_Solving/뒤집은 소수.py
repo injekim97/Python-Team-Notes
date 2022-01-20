@@ -4,9 +4,8 @@ def isPrime(x):
     if x == 1 :
         return False
 
-    # e.g : 16 -> 16 = 16 // 2 -> 8 
-
-    # 2~ i//2 나누는 것 까지 돌음
+    # e.g : 16 = 16 // 2 -> 8 
+    # 2 ~ x(가져온 값을) // 2 나누는 것 까지 돌음
     for i in range(2,x//2) :
         if x % i == 0 :
             return False
@@ -22,7 +21,7 @@ def reverse(x):
     while x > 0 :
         t = x % 10    # 9010-> 901 -> 90 -> 9  
         res = res * 10 + t   # 0 * 10 + t(0) = 0 -> 0 * 10 + t(1) = 1, 1 * 10 + t(0) = 10, 10 * 10 + t(9) = 109
-        x = x // 10
+        x = x // 10 # 901 -> 90 -> 9 
     return res
 
 
